@@ -1,4 +1,3 @@
-# MFMHIN
 MFMHIN: A Multi-Information Fusion Model based on Heterogeneous Information Networks for Predicting Synergistic Drug Combinations
 This repository contains the source code and data for the paper "MFMHIN: A Multi-Information Fusion Model based on Heterogeneous Information Networks for Predicting Synergistic Drug Combinations".
 
