@@ -1,0 +1,135 @@
+DC_ID,COMPONENT_1,COMPONENT_2,EFFICACY,EFFECT_TYPE,DISEASE,ICD10_S
+DC000136,acetaminophen,codeine,Efficacious,,Relief of moderate to moderately severe pain,"R52 Pain, unspecified"
+DC000018,bupivacaine,epinephrine,Efficacious,,For local anesthesia for dental procedures,
+DC000427,cimetidine,fexofenadine,Need further study,,Ulcers,K25 Gastric ulcer
+DC000459,fosinopril,hydrochlorothiazide,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000049,eprosartan,hydrochlorothiazide,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000076,bisoprolol,hydrochlorothiazide,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000020,diphenhydramine,ibuprofen,Efficacious,,Used to minor aches and pains that may cause sleeplessness.,"R52 Pain, unspecified"
+DC000058,hydrocodone,ibuprofen,Efficacious,,Short-term (generally less than 10 days) management of acute pain.,R52.0 acute pain
+DC007187,famotidine,ibuprofen,Efficacious,,It is indicated for the relief of signs and symptoms of rheumatoid arthritis and osteoarthritis and to decrease the risk of developing upper gastrointestinal ulcers.,M05 Rheumatoid arthritis with rheumatoid factor; M19 Other and unspecified osteoarthritis
+DC000187,capecitabine,imatinib,Non-efficacious,,Metastatic breast cancer,C50 Malignant neoplasm of breast
+DC000482,hydrochlorothiazide,irbesartan,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000362,docetaxel,irinotecan,Efficacious,,Advanced esophageal cancer,"C15.9 Malignant neoplasm of esophagus, unspecified"
+DC000016,epinephrine,lidocaine,Efficacious,,Local anesthetic,
+DC000476,hydrochlorothiazide,lisinopril,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000477,hydrochlorothiazide,losartan,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000465,bendroflumethiazide,nadolol,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000119,lansoprazole,naproxen,Efficacious,,"Reducing the risk of NSAID-associated gastric ulcers in patients with a history of documented gastric ulcer(s) who require the use of an NSAID for treatment of the signs and symptoms of rheumatoid arthritis, osteoarthritis, and/or ankylosing spondylitis.",K25 Gastric ulcer
+DC000289,enalapril,nitrendipine,Efficacious,,Hypertension,I10 Essential (primary) hypertension
+DC000463,amlodipine,olmesartan,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000483,hydrochlorothiazide,olmesartan,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000182,methotrexate,omeprazole,Non-efficacious,,Malignant diseases,
+DC000071,ibuprofen,oxycodone,Efficacious,,Short-term to relieve moderate to severe pain.,"R52 Pain, unspecified"
+DC000077,hydrocortisone,oxytetracycline,Efficacious,,"Used in inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe where the inherent risk of steroid use in certain infective conjunctivitides is accepted to obtain a diminution in edema and inflammation.","H10-H11  Disorders of conjunctiva; H15-H22  Disorders of sclera, cornea, iris and ciliary body"
+DC000341,cyclophosphamide,paclitaxel,Efficacious,,Advanced or recurrent breast cancer,C50 Malignant neoplasms of breast; C79.81 Secondary malignant neoplasm of breast
+DC000219,methotrexate,pantoprazole,Non-efficacious,,Malignant diseases,
+DC000144,acetaminophen,pentazocine,Efficacious,,Relief of mild to moderate pain,"R52 Pain, unspecified"
+DC000274,indapamide,perindopril,Efficacious,,Hypertension in type 2 diabetes,E11.5 Type 2 diabetes mellitus with circulatory complications;
+DC000300,antazoline,pheniramine,Efficacious,,Temporarily relief minor allergic symptoms of the eye.,H10 Conjunctivitis
+DC007272,hydrochlorothiazide,pindolol,Efficacious,,Hypertension,I10 Essential (primary) hypertension
+DC000002,gentamicin,prednisolone,Efficacious,,Treating bacterial infections of the eyes.,"A49.9 Bacterial infection, unspecified"
+DC007224,chloramphenicol,prednisolone,Efficacious,,Bacterial infections of the eyes,"A49.9 Bacterial infection, unspecified"
+DC000111,lidocaine,prilocaine,Efficacious,,"Used to numb the skin, or surfaces of the penis or vagina, in preparation for a medical procedure or to lessen the pain of inserting a medical instrument such as a tube or speculum.",
+DC000017,epinephrine,prilocaine,Efficacious,,For local anesthetic.,
+DC000215,codeine,promethazine,Efficacious,,"Used to relieve symptoms associated with a cold, allergies or respiratory tract illness.","J06.9 Acute upper respiratory infection, unspecified"
+DC000025,methotrexate,rabeprazole,Non-efficacious,,Malignant diseases,
+DC000043,hydrochlorothiazide,spironolactone,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000292,amlodipine,telmisartan,Efficacious,,Hypertension,I10 Essential (primary) hypertension
+DC000428,diclofenac,tetracycline,Need further study,,Bacterial Infections,"A49.9 Bacterial infection, unspecified"
+DC000429,naproxen,tetracycline,Need further study,,Bacterial Infections,"A49.9 Bacterial infection, unspecified"
+DC000201,clindamycin,tretinoin,Efficacious,,Svere nodular acne,L70.0 Acne vulgaris
+DC000045,hydrochlorothiazide,triamterene,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC000047,trandolapril,verapamil,Efficacious,,For patients with hypertension,I10 Essential (primary) hypertension
+DC003959,celecoxib,chenodeoxycholic acid,Need further study,Unclear,Familial Adenomatous Polyposis,"D12.6 Benign neoplasm of colon, unspecified"
+DC001041,amiloride,chlorthalidone,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC001536,capecitabine,cyclophosphamide,Efficacious,Unclear,Breast Cancer,C50 Malignant neoplasms of breast
+DC006509,dasatinib,docetaxel,Need further study,Unclear,Metastatic Prostate Cancer,C61 Malignant neoplasm of prostate
+DC002520,docetaxel,doxorubicin,Efficacious,Unclear,Breast Cancer,C50 Malignant neoplasms of breast
+DC004362,carvedilol,enalapril,Efficacious,Unclear,Acute Myeloid Leukemia,C92.00 Acute myeloid leukemia
+DC002701,docetaxel,erlotinib,Efficacious,Unclear,"Carcinoma, Non-Small-Cell Lung",C34.90 Malignant neoplasm of unspecified part of unspecified bronchus or lung
+DC001974,clomipramine,fluoxetine,Efficacious,Unclear,Obsessive Compulsive Disorder,F42 Obsessive-compulsive disorder
+DC003110,citalopram,fluoxetine,Non-efficacious,Unclear,Depression,"F32.9 Major depressive disorder, single episode, unspecified"
+DC001975,docetaxel,gefitinib,Efficacious,Unclear,Non-Small Cell Lung Cancer,C34.90 Malignant neoplasm of unspecified part of unspecified bronchus or lung
+DC007060,docetaxel,gemcitabine,Efficacious,Unclear,Metastatic Breast Cancer,C50 Malignant neoplasm of breast
+DC005184,amlodipine,hydrochlorothiazide,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC004318,bupivacaine,hydromorphone,Non-efficacious,Unclear,Postoperative Ileus,K56.5 Intestinal adhesions [bands] with obstruction
+DC001932,felodipine,irbesartan,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC003351,captopril,irbesartan,Efficacious,Unclear,Type 2 Diabetes Mellitus,E11  Type 2 diabetes mellitus
+DC007020,amlodipine,irbesartan,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC000522,capecitabine,irinotecan,Non-efficacious,Unclear,Advanced Colorectal Cancer,"C18.9 Malignant neoplasm of colon, unspecified"
+DC005603,bosutinib,lansoprazole,Non-efficacious,Unclear,Healthy Volunteers,"C92.1 Chronic myeloid leukemia, BCR/ABL-positive"
+DC001030,fluorouracil,leucovorin,Efficacious,Unclear,Pancreatic Cancer,C25 Malignant neoplasm of pancreas
+DC005294,atenolol,losartan,Efficacious,Unclear,Marfan Syndrome,Q87.4 Marfan's syndrome
+DC005396,amlodipine,losartan,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC004575,lisinopril,losartan,Non-efficacious,Unclear,Kidney Diseases,E11.2 Type 2 diabetes mellitus with kidney complications
+DC003038,fentanyl,mepivacaine,Efficacious,Unclear,Knee Arthroscopy,
+DC002516,felodipine,metoprolol,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC004658,acetaminophen,morphine,Efficacious,Unclear,Urolithiasis,N20-N23 Urolithiasis
+DC006475,buprenorphine,naltrexone,Efficacious,Unclear,Prescription Opioid Dependence,F11.2 Opioid dependence
+DC006019,losartan,nebivolol,Need further study,Unclear,Marfan Syndrome,Q87.4 Marfan's syndrome
+DC004659,carbamazepine,nevirapine,Efficacious,Unclear,HIV Infections,B20  Human immunodeficiency virus [HIV] disease
+DC002181,dobutamine,norepinephrine,Non-efficacious,Unclear,Septic Shock,R65.21 Severe sepsis with septic shock
+DC006853,diclofenac,omeprazole,Efficacious,Unclear,Osteoarthritis,M19  Other and unspecified osteoarthritis
+DC003382,hydromorphone,oxycodone,Efficacious,Unclear,Healthy Volunteers,"R52 Pain, unspecified"
+DC005878,naloxone,oxycodone,Efficacious,Unclear,Cancer,G89.3 Neoplasm related pain (acute) (chronic)
+DC000725,capecitabine,paclitaxel,Efficacious,Unclear,Esophageal Cancer,D00.1 Carcinoma in situ of esophagus
+DC003186,gemcitabine,paclitaxel,Efficacious,Unclear,Metastatic Pancreatic Cancer,"C25.9 Malignant neoplasm of pancreas, unspecified"
+DC006457,clopidogrel,paclitaxel,Efficacious,Unclear,Coronary Artery Disease,"I25.9 Chronic ischemic heart disease, unspecified"
+DC003362,azathioprine,prednisolone,Efficacious,Unclear,Lupus Nephritis,M32.14 Glomerular disease in systemic lupus erythematosus
+DC004980,cyclophosphamide,prednisolone,Efficacious,Unclear,Lupus Nephritis,M32.14 Glomerular disease in systemic lupus erythematosus
+DC002765,docetaxel,prednisone,Efficacious,Unclear,Prostate Cancer,C61 Malignant neoplasm of prostate
+DC003395,etodolac,propranolol,Efficacious,Unclear,Colorectal Neoplasms,"C18.9 Malignant neoplasm of colon, unspecified"
+DC004170,losartan,propranolol,Efficacious,Unclear,Marfan Syndrome,Q87.4 Marfan's syndrome
+DC001986,fluoxetine,quetiapine,Efficacious,Unclear,Obsessive Compulsive Disorder,F42 Obsessive-compulsive disorder
+DC006553,irbesartan,ramipril,Non-efficacious,Unclear,Albuminuria,"R80.9 Proteinuria, unspecified"
+DC003619,gefitinib,simvastatin,Efficacious,Unclear,Lung Cancer,C34 Malignant neoplasm of bronchus and lung
+DC003211,pravastatin,simvastatin,Efficacious,Unclear,Hypercholesterolemia,E78.0 Pure hypercholesterolemia
+DC001328,fluorouracil,sorafenib,Efficacious,Unclear,Hepatocellular Carcinoma,C22.0 Liver cell carcinoma
+DC004578,capecitabine,sorafenib,Efficacious,Unclear,Breast Cancer,C50 Malignant neoplasms of breast
+DC004989,doxorubicin,sorafenib,Efficacious,Unclear,"Carcinoma, Hepatocellular","C22.9 Malignant neoplasm of liver, not specified as primary or secondar"
+DC003066,furosemide,spironolactone,Efficacious,Unclear,Cirrhosis,K74.6 Other and unspecified cirrhosis of liver
+DC001170,bisoprolol,telmisartan,Efficacious,Unclear,Diabetes Mellitus,E11.5 Type 2 diabetes mellitus with circulatory complications;
+DC004263,clopidogrel,telmisartan,Non-efficacious,Unclear,Stroke,I61 Intracerebral haemorrhage
+DC002885,doxorubicin,valproic acid,Efficacious,Unclear,Malignant Mesothelioma,C45 Mesothelioma
+DC003440,pravastatin,valsartan,Efficacious,Unclear,Hypertension,I10 Essential (primary) hypertension
+DC000561,nateglinide,valsartan,Non-efficacious,Unclear,"Diabetes Mellitus, Type 2",E11 Type 2 diabetes mellitus
+DC006898,docetaxel,vinorelbine,Non-efficacious,Unclear,Advanced Non-Small Cell Lung Cancer,C34.90 Malignant neoplasm of unspecified part of unspecified bronchus or lung
+DC004379,nevirapine,zidovudine,Efficacious,Unclear,HIV Infections,B20  Human immunodeficiency virus [HIV] disease
+DC000462,amlodipine,benazepril,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000056,atenolol,chlorthalidone,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000046,enalapril,felodipine,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000464,amiloride,hydrochlorothiazide,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000479,hydrochlorothiazide,metoprolol,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000484,hydrochlorothiazide,propranolol,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000485,hydrochlorothiazide,quinapril,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000122,niacin,simvastatin,Efficacious,Additive,It is used to lower cholesterol and triglycerides (types of fat) in the blood.,E78 Disorders of lipoprotein metabolism and other lipidemias
+DC000042,hydrochlorothiazide,telmisartan,Efficacious,Additive,For patients with hypertension,I10 Essential (primary) hypertension
+DC000168,buprenorphine,naloxone,Efficacious,Antagonistic,For opioid addication,F11.1 Opioid abuse
+DC000446,diphenhydramine,theophylline,Efficacious,Antagonistic,It is used to prevent nausea and motion sickness.,T75.3 Motion sickness
+DC000072,naloxone,pentazocine,Efficacious,Antagonistic,Moderate to severe pain,"R52 Pain, unspecified"
+DC000204,doxorubicin,paclitaxel,Efficacious,Synergistic,Cancer,C Malignant neoplasm
+DC000160,diclofenac,quinidine,Non-efficacious,Antagonistic,"Arthritis, gout and pain","M10.9 Gout, unspecified"
+DC000162,quinidine,warfarin,Non-efficacious,Antagonistic,Coagulant,
+DC000252,acetaminophen,diclofenac,Efficacious,Synergistic,Acute pain,R52.0 acute pain
+DC000250,capecitabine,docetaxel,Efficacious,Synergistic,Metastatic breast cancer,C50 Malignant neoplasm of breast
+DC000357,efavirenz,emtricitabine,Efficacious,Synergistic,HIV-1 Infections,B20  Human immunodeficiency virus [HIV] disease
+DC000456,benazepril,hydrochlorothiazide,Efficacious,Synergistic,For patients with hypertension,I10 Essential (primary) hypertension
+DC000032,captopril,hydrochlorothiazide,Efficacious,Synergistic,For patients with hypertension,I10 Essential (primary) hypertension
+DC000050,enalapril,hydrochlorothiazide,Efficacious,Synergistic,For patients with hypertension,I10 Essential (primary) hypertension
+DC000275,gefitinib,irinotecan,Efficacious,Synergistic,Colorectal cancer,"C18.9 Malignant neoplasm of colon, unspecified"
+DC000061,acetaminophen,ketoprofen,Efficacious,Synergistic,Pain,"R52 Pain, unspecified"
+DC000100,abacavir,lamivudine,Efficacious,Synergistic,It is indicated for the treatment of HIV-1 infection.,B20  Human immunodeficiency virus [HIV] disease
+DC000137,azithromycin,mercaptopurine,Efficacious,Synergistic,Objectives Mycobacterium avium subspecies paratuberculosis (MAP),"K50.9 Crohn's disease, unspecified"
+DC000149,clarithromycin,mercaptopurine,Efficacious,Synergistic,Objectives Mycobacterium avium subspecies paratuberculosis (MAP),"K50.9 Crohn's disease, unspecified"
+DC000113,lovastatin,niacin,Efficacious,Synergistic,It is used to lower cholesterol and triglycerides (types of fat) in the blood.,E78 Disorders of lipoprotein metabolism and other lipidemias
+DC000146,acetaminophen,oxycodone,Efficacious,Synergistic,Relief of moderate to moderately severe pain,"R52 Pain, unspecified"
+DC000284,amlodipine,perindopril,Efficacious,Synergistic,Hypertension and coronary heart disease,I11  Hypertensive heart disease; I25.1 Atherosclerotic heart disease of native coronary artery
+DC000285,dipyridamole,prednisolone,Efficacious,Synergistic,Anti-inflammatory,
+DC000087,amlodipine,streptomycin,Efficacious,Synergistic,Bacterial Infections,"A49.9 Bacterial infection, unspecified"
+DC000487,amikacin,tigecycline,Efficacious,Synergistic,Multidrug-resistant (MDR) and pan-resistant Acinetobacter baumannii,
+DC000154,acetaminophen,tramadol,Efficacious,Synergistic,The short-term (five days or less) management of acute pain.,R52.0 acute pain
+DC000402,phenytoin,valproic acid,Efficacious,Synergistic,Drug-resistant epilepsy,G40 Epilepsy and recurrent seizures
+DC000480,amlodipine,valsartan,Efficacious,Synergistic,For patients with hypertension,I10 Essential (primary) hypertension
+DC000044,hydrochlorothiazide,valsartan,Efficacious,Synergistic,For patients with hypertension,I10 Essential (primary) hypertension
+DC000101,lamivudine,zidovudine,Efficacious,Synergistic,The treatment of HIV-1 infection in adults,B20  Human immunodeficiency virus [HIV] disease
